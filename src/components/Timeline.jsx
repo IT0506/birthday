@@ -5,8 +5,8 @@ import c1 from "../assets/childhood/c1.jpg";
 import c2 from "../assets/childhood/c2.jpg";
 
 
-import s1 from "../assets/school/s1.jpg";
-import s2 from "../assets/school/s2.jpg";
+import s1 from "../assets/school/s1.JPG";
+import s2 from "../assets/school/s2.JPG";
 import s3 from "../assets/school/s3.jpg";
 
 import c11 from "../assets/college/c11.jpg";
